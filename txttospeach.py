@@ -1,3 +1,4 @@
 from gtts import gTTS
-text = gTTS("i hate niggas")
+
+text = gTTS("hello world")
 text.save("hello.mp3")
